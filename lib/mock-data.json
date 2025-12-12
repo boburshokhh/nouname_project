@@ -1,0 +1,120 @@
+{
+  "patients": [
+    {
+      "name": "ИВАНОВ ИВАН ИВАНОВИЧ",
+      "jshshir": "12345678901234",
+      "gender": "Мужской (Erkak)",
+      "age": "25 yosh",
+      "address": "г. Ташкент, ул. Навои, д. 15, кв. 42"
+    },
+    {
+      "name": "ПЕТРОВА МАРИЯ СЕРГЕЕВНА",
+      "jshshir": "23456789012345",
+      "gender": "Женский (Ayol)",
+      "age": "32 yosh",
+      "address": "г. Ташкент, ул. Амира Темура, д. 78, кв. 12"
+    },
+    {
+      "name": "СИДОРОВ АЛЕКСАНДР ВЛАДИМИРОВИЧ",
+      "jshshir": "34567890123456",
+      "gender": "Мужской (Erkak)",
+      "age": "45 yosh",
+      "address": "г. Ташкент, ул. Университетская, д. 23, кв. 5"
+    },
+    {
+      "name": "КОЗЛОВА ЕЛЕНА ПЕТРОВНА",
+      "jshshir": "45678901234567",
+      "gender": "Женский (Ayol)",
+      "age": "28 yosh",
+      "address": "г. Ташкент, ул. Чилонзар, д. 45, кв. 89"
+    },
+    {
+      "name": "МОРОЗОВ ДМИТРИЙ АНДРЕЕВИЧ",
+      "jshshir": "56789012345678",
+      "gender": "Мужской (Erkak)",
+      "age": "38 yosh",
+      "address": "г. Ташкент, ул. Шота Руставели, д. 12, кв. 34"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Острый бронхит",
+      "diagnosis_icd10_code": "J20.9",
+      "final_diagnosis": "Острый бронхит неуточненный",
+      "final_diagnosis_icd10_code": "J20.9"
+    },
+    {
+      "diagnosis": "Острая респираторная вирусная инфекция",
+      "diagnosis_icd10_code": "J06.9",
+      "final_diagnosis": "Острая инфекция верхних дыхательных путей неуточненная",
+      "final_diagnosis_icd10_code": "J06.9"
+    },
+    {
+      "diagnosis": "Гипертоническая болезнь",
+      "diagnosis_icd10_code": "I10",
+      "final_diagnosis": "Эссенциальная (первичная) гипертензия",
+      "final_diagnosis_icd10_code": "I10"
+    },
+    {
+      "diagnosis": "Остеохондроз позвоночника",
+      "diagnosis_icd10_code": "M42.9",
+      "final_diagnosis": "Остеохондроз позвоночника неуточненный",
+      "final_diagnosis_icd10_code": "M42.9"
+    },
+    {
+      "diagnosis": "Гастрит",
+      "diagnosis_icd10_code": "K29.9",
+      "final_diagnosis": "Гастрит неуточненный",
+      "final_diagnosis_icd10_code": "K29.9"
+    },
+    {
+      "diagnosis": "Пневмония",
+      "diagnosis_icd10_code": "J18.9",
+      "final_diagnosis": "Пневмония неуточненного возбудителя",
+      "final_diagnosis_icd10_code": "J18.9"
+    }
+  ],
+  "organizations": [
+    "4-я городская поликлиника",
+    "Республиканская клиническая больница №1",
+    "Городская больница скорой медицинской помощи",
+    "Медицинский центр 'Здоровье'",
+    "Поликлиника №2 Чилонзарского района",
+    "Городская детская больница"
+  ],
+  "doctors": [
+    {
+      "doctor_name": "АЛИЕВ АЛИШЕР РАХИМОВИЧ",
+      "doctor_position": "Врач-терапевт",
+      "doctor_qualification": "Высшая категория"
+    },
+    {
+      "doctor_name": "КАРИМОВА ФАРИДА ТОШПУЛАТОВНА",
+      "doctor_position": "Врач-педиатр",
+      "doctor_qualification": "Первая категория"
+    },
+    {
+      "doctor_name": "ТУРАЕВ БАХОДИР ИСМОИЛОВИЧ",
+      "doctor_position": "Врач-невролог",
+      "doctor_qualification": "Высшая категория"
+    },
+    {
+      "doctor_name": "ЮСУПОВА НИГОРА АБДУЛЛАЕВНА",
+      "doctor_position": "Врач-кардиолог",
+      "doctor_qualification": "Высшая категория"
+    },
+    {
+      "doctor_name": "РАХИМОВ ШУКУР ДЖУРАЕВИЧ",
+      "doctor_position": "Врач-терапевт",
+      "doctor_qualification": "Вторая категория"
+    }
+  ],
+  "days_off_ranges": [
+    { "from": 3, "to": 5 },
+    { "from": 5, "to": 7 },
+    { "from": 7, "to": 10 },
+    { "from": 10, "to": 14 },
+    { "from": 14, "to": 21 }
+  ]
+}
+
